@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GLgele&count_private=true&show_icons=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GLgele&count_private=true&show_icons=true&locale=cn"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KeyFac&count_private=true&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KeyFac&count_private=true&show_icons=true&locale=cn"/>
 
 I'm KeyFac，you can find me in these places:
 
-* KeyFac's blog：[glgele.github.io](http://glgele.github.io)
+* KeyFac's blog：[keyfac.github.io](http://keyfac.github.io)
 <!-- * RuoBai's blog： [http://ruobai.byethost22.com/blog](http://ruobai.byethost22.com/blog) -->
 
 * KeyFac / Gitee: [GLgele](https://gitee.com/GLgele)
